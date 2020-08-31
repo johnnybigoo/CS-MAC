@@ -1,6 +1,4 @@
-﻿using System;
-namespace CalebCury
-
+﻿
 /* 
 Course List
 ------------------------------//-------------
@@ -109,3 +107,5 @@ Timestamps
 06:13:44 - Create and Interface
 06:18:36 - Conclusion
 */
+
+

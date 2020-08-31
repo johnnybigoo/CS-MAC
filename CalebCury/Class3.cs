@@ -4,12 +4,14 @@
 
 
 
+/*
 namespace CalebCury //a namespace - used for organization
 {
 
     class Program //a class - has members (such as a method)
     {
-        static void Main(string[] args) //a method - contain a block of code
+        
+        private static void Main(string[] args) //a method - contain a block of code
         {
             Console.WriteLine(); //fully qualified name
             Console.WriteLine("Hello World!"); //a statement
@@ -18,5 +20,6 @@ namespace CalebCury //a namespace - used for organization
     }
 
 }
+*/
 
 //namespaces -> classes -> members -> method -> statements

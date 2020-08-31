@@ -1,8 +1,10 @@
 ﻿using System;
 
+
 //4 - Methods, Static Methods, Instance Methods
 
 
+/*
 namespace CalebCury //a namespace - used for organization
 {
 
@@ -14,9 +16,11 @@ namespace CalebCury //a namespace - used for organization
             Console.WriteLine("Hello World!"); //a statement
             Console.WriteLine("Best friend"); //a statement
         }
+        
     }
 
 }
+*/
 
 //namespaces -> classes -> members -> method -> statements
 
